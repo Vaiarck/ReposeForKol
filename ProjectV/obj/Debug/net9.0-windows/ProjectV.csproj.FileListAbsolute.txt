@@ -1,0 +1,11 @@
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\bin\Debug\net9.0-windows\ProjectV.deps.json
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\bin\Debug\net9.0-windows\ProjectV.dll
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\bin\Debug\net9.0-windows\ProjectV.pdb
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\ProjectV.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\ProjectV.AssemblyInfoInputs.cache
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\ProjectV.AssemblyInfo.cs
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\ProjectV.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\ProjectV.dll
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\refint\ProjectV.dll
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\ProjectV.pdb
+C:\Users\Егор\Desktop\dotnet progect\ProjectV\obj\Debug\net9.0-windows\ref\ProjectV.dll
